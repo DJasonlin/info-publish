@@ -1,0 +1,10 @@
+{
+  "name": "myproject01",
+  "app_id": "",
+    "proxies": [
+    {
+      "path": "/server",
+      "proxyUrl": "http://www.seid.org.cn"
+    }
+  ]
+}
